@@ -1,0 +1,12 @@
+{"type":"state","equipment":"ETCH-01","at":"2026-11-16T06:00:00+01:00","state":"PRODUCTIVE"}
+{"type":"state","equipment":"ETCH-01","at":"2026-11-16T06:05:00","state":"PRODUCTIVE"}
+ETCH-01;PRODUCTIVE;2026-11-16 06:10
+{"type":"state","equipment":"ETCH-01","at":"2026-11-16T06:15:00+01:00","state":"RUNNING"}
+{"type":"sample","equipment":"ETCH-01","at":"2026-11-16T06:20:00+01:00","run":"R-1002","recipe":"ETCH-OX-200","parameter":"ChamberPressure","value":"12.5","unit":"mTorr"}
+{"type":"sample","equipment":"ETCH-01","at":"2026-11-16T06:25:00+01:00","run":"R-1002","recipe":"ETCH-OX-200","parameter":"ChamberPressure","value":1.6,"unit":"Pa"}
+{"type":"state","equipment":"ETCH-01","at":"2030-01-01T00:00:00+01:00","state":"STANDBY"}
+{"type":"state","equipment":"ETCH-01","at":"2026-11-16T05:00:00Z","state":"PRODUCTIVE"}
+
+{"type":"alarm","equipment":"ETCH-01","at":"2026-11-16T06:40:00+01:00","code":"E-4711"}
+{"type":"state","at":"2026-11-16T06:45:00+01:00","state":"STANDBY"}
+{"type":"sample","equipment":"ETCH-01","at":"2026-11-16T06:50:00+01:00","run":"R-1002","recipe":"ETCH-OX-200","parameter":"ChamberPressure","value":12.5,"unit":"mTorr"}

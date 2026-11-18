@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ToolTrace.Api/ToolTrace.Api.csproj" />
+    <Project Path="src/ToolTrace.Core/ToolTrace.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ToolTrace.Api.Tests/ToolTrace.Api.Tests.csproj" />
+    <Project Path="tests/ToolTrace.Core.Tests/ToolTrace.Core.Tests.csproj" />
+  </Folder>
+</Solution>
